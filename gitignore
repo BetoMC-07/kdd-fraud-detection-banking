@@ -1,0 +1,11 @@
+# Evitar subir datasets locales y pesados
+transacciones_bancarias.csv
+transacciones_preprocesadas.csv
+X_train_transformado.csv
+X_test_transformado.csv
+
+# Archivos temporales o del sistema de Colab
+.ipynb_checkpoints/
+__pycache__/
+.config/
+sample_data/
